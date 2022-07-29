@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋<br><br>
+
+<h6>🖥skills</h6>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squarestyle=for-the-badge&logo=HTML5&logoColor=white">
+
+<h6>🐰eunbin</h6>
+<a href="https://velog.io/@eunbinnie"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://blog.naver.com/dmsqlsdl54"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <!--
 **eunbinnie/eunbinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
